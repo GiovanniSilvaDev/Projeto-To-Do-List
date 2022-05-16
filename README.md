@@ -1,0 +1,1 @@
+Projeto To-do List utilizando algumas funcões do JavaScript para pegar o elemento do input e adicioná-lo embaixo e aplicar o estilo de riscado quando concluído.
